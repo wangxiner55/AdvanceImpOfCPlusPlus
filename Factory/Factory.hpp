@@ -8,6 +8,18 @@
 * 
 */
 
+/*
+* 
+*	Imp Principle:
+*			Maintaining A Factory::Map In A Factory class, The new produce class will be registered in Factory::Map.
+*		Genericization of Product Classes via Variable Template Metaprogramming,
+* 
+*	
+* 
+* 
+* 
+*/
+
 
 #include <map>
 #include <string>
